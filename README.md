@@ -6,10 +6,10 @@
 
 ###
 
-## 🎮 About Me
-I'm a passionate developer and content creator who loves building interactive web experiences. When I'm not coding, you can find me diving into gaming or crafting creative content for my community.
+## A Bit About Me:
+I'm a programmer, developer and a casual gamer. I like to program, host and debug Discord applications, explore countless possibilities of what I can create and implement.
 
-## 💻 Skills & Technologies
+## Languages and Softwares:
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -27,13 +27,11 @@ I'm a passionate developer and content creator who loves building interactive we
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-## 🎯 What I'm Working On
-- Building full-stack web applications with React and TypeScript
-- Creating engaging video content on YouTube
-- Exploring new technologies and frameworks
-- Contributing to open-source projects
+## Current projects:
+- ELITE Bots - Lead developer of all the bots used in and by ELITE
+- Explore.io - Hobby .io game project, generative world to explore and relax
 
-## 📞 Connect With Me
+## Dind me on:
 
 <div data-importer="socials" align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
