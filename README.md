@@ -31,7 +31,7 @@ I'm a programmer, developer and a casual gamer. I like to program, host and debu
 - ELITE Bots - Lead developer of all the bots used in and by ELITE
 - Explore.io - Hobby .io game project, generative world to explore and relax
 
-## Dind me on:
+## Find me on:
 
 <div data-importer="socials" align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
